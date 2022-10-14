@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ButceHesap\ButceHesap\bin\Debug\ButceHesap.exe.config
+C:\Users\user\source\repos\ButceHesap\ButceHesap\bin\Debug\ButceHesap.exe
+C:\Users\user\source\repos\ButceHesap\ButceHesap\bin\Debug\ButceHesap.pdb
+C:\Users\user\source\repos\ButceHesap\ButceHesap\obj\Debug\ButceHesap.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ButceHesap\ButceHesap\obj\Debug\ButceHesap.Form1.resources
+C:\Users\user\source\repos\ButceHesap\ButceHesap\obj\Debug\ButceHesap.Properties.Resources.resources
+C:\Users\user\source\repos\ButceHesap\ButceHesap\obj\Debug\ButceHesap.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ButceHesap\ButceHesap\obj\Debug\ButceHesap.exe
+C:\Users\user\source\repos\ButceHesap\ButceHesap\obj\Debug\ButceHesap.pdb
+C:\Users\user\source\repos\ButceHesap\ButceHesap\obj\Debug\ButceHesap.csproj.CoreCompileInputs.cache
